@@ -1,0 +1,1 @@
+Use conda install -c conda-forge tesserocr command to install tesserocr which are commented in requiremtes.txt
